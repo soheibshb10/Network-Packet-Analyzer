@@ -53,6 +53,7 @@ Example:
         Source and destination ports (for TCP and UDP).
         Packet details for ICMP and ARP.
         Packet summaries for non-IP packets.
+![image](https://github.com/user-attachments/assets/e955f623-1a93-416d-936f-6432a8cc671d)
 
 ## Script Details
 
